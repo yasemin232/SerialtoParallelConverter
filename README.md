@@ -4,7 +4,7 @@ Simulation Results
 
 To verify the design, a testbench was used and the simulation results were visualized using GTKWave. The waveform below demonstrates the transition from serial input to parallel output.
 
-![Waveform](waveform_gtkwave.png)# Serial-to-Parallel Converter
+![Waveform](waveform_gtkwave.png)
 
 ## Files
 - `serial_to_parallel.v`    – Main Verilog module (8-bit shift register design)
